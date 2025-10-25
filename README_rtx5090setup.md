@@ -10,8 +10,8 @@ This document covers the environment setup and build notes for RTX 5090 users (C
 ## Clone and Build Instructions
 
 ```bash
-git clone --recursive https://github.com/Keloyi531/gaussian-splatting.git
-cd gaussian-splatting
+git clone --recursive https://github.com/Keloyi531/3D-Gaussian-Splatting-RTX5090-Setup.git
+cd 3D-Gaussian-Splatting-RTX5090-Setup
 
 # If already cloned without --recursive:
 git submodule update --init --recursive
