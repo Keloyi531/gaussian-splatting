@@ -1,9 +1,9 @@
 [submodule "submodules/simple-knn"]
 	path = submodules/simple-knn
-	url = https://gitlab.inria.fr/bkerbl/simple-knn.git
+	url = https://github.com/Keloyi531/simple-knn.git
 [submodule "submodules/diff-gaussian-rasterization"]
 	path = submodules/diff-gaussian-rasterization
-	url = https://github.com/graphdeco-inria/diff-gaussian-rasterization.git
+	url = https://github.com/Keloyi531/diff-gaussian-rasterization.git
 	branch = dr_aa
 [submodule "SIBR_viewers"]
 	path = SIBR_viewers
